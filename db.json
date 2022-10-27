@@ -1,0 +1,77 @@
+{
+  "productList": [
+    {
+      "productName": "Airton",
+      "category": "Vegetables",
+      "freshness": "Brand New",
+      "price": 2000,
+      "comment": "teste",
+      "date": "2022-10-27T03:00:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "teste",
+      "category": "Vegetables",
+      "freshness": "Brand New",
+      "price": 3434,
+      "comment": "teste",
+      "date": "2022-10-05T03:00:00.000Z",
+      "id": 2
+    },
+    {
+      "productName": "teste2",
+      "category": "Vegetables",
+      "freshness": "Second Hand",
+      "price": 25,
+      "comment": "trrr",
+      "date": "2022-10-29T03:00:00.000Z",
+      "id": 3
+    },
+    {
+      "productName": "banana",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 25,
+      "comment": "preço da banana",
+      "date": "2022-10-27T03:00:00.000Z",
+      "id": 4
+    },
+    {
+      "productName": "Maça",
+      "category": "Fruits",
+      "freshness": "Second Hand",
+      "price": 36,
+      "comment": "preço",
+      "date": "2022-10-27T03:00:00.000Z",
+      "id": 5
+    },
+    {
+      "productName": "KIWI",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 8.59,
+      "comment": "MAÇA",
+      "date": "2022-10-27T03:00:00.000Z",
+      "id": 6
+    },
+    {
+      "productName": "UVA",
+      "category": "Fruits",
+      "freshness": "Refurbished",
+      "price": 74,
+      "comment": "PREÇO DA uVA",
+      "date": "2022-10-28T03:00:00.000Z",
+      "id": 7
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
